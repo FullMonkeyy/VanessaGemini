@@ -1,2 +1,3 @@
 # VanessaGemini
-Personal vocal assistant
+Personal generative AI vocal assistant.
+Avaible soon...
